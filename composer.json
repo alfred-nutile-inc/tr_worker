@@ -1,7 +1,6 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "alfred-nutile-inc/tr_worker",
+	"description": "TotalRecalls Worker",
 	"license": "MIT",
 	"require": {
 	  "laravel/framework": "4.2.*",
@@ -10,8 +9,8 @@
 	  "iron-io/iron_worker": "~1.4",
 	  "iron-io/laraworker": "dev-master",
 	  "rhumsaa/uuid": "~2.8@dev",
-		"zetacomponents/feed": "dev-master",
-		"guzzle/guzzle": "~3.9@dev"
+	  "zetacomponents/feed": "dev-master",
+	  "guzzle/guzzle": "~3.9@dev"
 	},
 	"require-dev": {
 	  "phpmd/phpmd": "dev-master",
